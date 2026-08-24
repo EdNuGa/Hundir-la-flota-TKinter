@@ -1,8 +1,8 @@
 ## Aviso
 
-Únicamente contarán las partidas del usuario 1 (El de la izquierda).
-El juego no está terminado, por lo que no será un VS sino se guardará la mejor puntuación de cada jugador.
-El juego actualmente consiste en hundir los barcos en el menor de intentos posible.
+- Únicamente contarán las partidas del usuario 1 (El de la izquierda).
+- El juego no está terminado, por lo que no será un VS sino se guardará la mejor puntuación de cada jugador.
+- El juego actualmente consiste en hundir los barcos en el menor de intentos posible.
 
 ## Estructura de Carpetas y Archivos
 
