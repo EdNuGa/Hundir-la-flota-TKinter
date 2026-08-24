@@ -1,7 +1,8 @@
 ## Aviso
-Únicamente contarán las partidas del usuario 1 (El de la izquierda)
-Si quieres revisar el código te recomiendo que vayas a la parte 3, está todo mejor documentado
-Un saludo!
+
+Únicamente contarán las partidas del usuario 1 (El de la izquierda).
+El juego no está terminado, por lo que no será un VS sino se guardará la mejor puntuación de cada jugador.
+El juego actualmente consiste en hundir los barcos en el menor de intentos posible.
 
 ## Estructura de Carpetas y Archivos
 
@@ -20,8 +21,9 @@ Un saludo!
 
 Para ejecutar el juego, se recomienda seguir los pasos siguientes:
 1. Asegúrate de tener instalado Python en tu sistema.
-2. Clona este repositorio en tu máquina local
-3. Ejecuta el archivo `main.py` para iniciar la interfaz
+2. Tener instalada la librería Pillow de Python.
+3. Clona este repositorio en tu máquina local.
+4. Ejecuta el archivo `main.py` para iniciar la interfaz.
 
 ## Creadores
 
